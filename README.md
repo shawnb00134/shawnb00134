@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm just a guy going back to school to learn Computer Science.
+
 <!--
 **shawnb00134/shawnb00134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
